@@ -1,1 +1,5 @@
-# Batched-Bandits-with-Heavy-Tailed-Rewards
+# Batched Bandit Experiments
+
+Experiments for batched multi-armed bandit under heavy-tailed rewards are in `BaSE_H`.
+
+Experiments for batched Lipschitz bandit under heavy-tailed rewards are in `Lipschitz_H`.
